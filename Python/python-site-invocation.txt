@@ -1,0 +1,11 @@
+------site officiel https://www.python.org/
+Last 3.9.7 (30/08/2021, !!): version windows
+
+------ Invocation sous Sous Unix/Linux
+- sous WSL/Ubuntu: python3
+- sous MinGW-W64: python
+
+
+---------------- Un environnement d'exécution minimaliste (lui-même écrit sous Python)
+
+IDLE (s'installe avec la distribution sous Windows)
